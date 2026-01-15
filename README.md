@@ -1,6 +1,7 @@
 # 🧠 LLM Code Generator API
 
 A simple yet powerful FastAPI-based backend that takes natural language prompts and returns AI-generated Python code using OpenAI's GPT model.
+**Frontend Dashboard (React):** https://github.com/Ariba-Sameen-Ansari/llm-code-generator-dashboard
 
 ---
 
